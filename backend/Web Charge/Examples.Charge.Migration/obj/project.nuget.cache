@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VmwlclG6sgSM0RgUZCn1gnoo4NDWEQl3JiUGYB5A10EpRPobcffZ5HA+t/Ho03f6dp5K811G+gqtUVC+e9viVg==",
+  "dgSpecHash": "DwyFOq11jA6BQgybuQMpieY9PjMH/pF1/RoSHVORvqqoBjl3XAo6OLd6BZ+mIXxEuzro3Vb56/zmon/8YnH5NQ==",
   "success": true,
-  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj",
+  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj",
   "expectedPackageFiles": [
     "/Users/lucasplacido/.nuget/packages/abp/4.7.0/abp.4.7.0.nupkg.sha512",
     "/Users/lucasplacido/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",

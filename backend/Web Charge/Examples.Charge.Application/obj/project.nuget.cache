@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hfR4KIzWel/bbBXZCk/2WS5LewXpN51OlwtGa3kTq7ttFwM5aVVwsYcnVnxCzy1zIq+TOD2gLwbIbjEltgCkg==",
+  "dgSpecHash": "/fPZvrHHCUNsvXicBLHIztGkulvI7Stska5S+jJRG6LqoYARhTwcjeo7T/1XbnlVU/uJ9Llz0cCd+17ms5G0Sw==",
   "success": true,
-  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Application/Examples.Charge.Application.csproj",
+  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Application/Examples.Charge.Application.csproj",
   "expectedPackageFiles": [
     "/Users/lucasplacido/.nuget/packages/abp/4.7.0/abp.4.7.0.nupkg.sha512",
     "/Users/lucasplacido/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",

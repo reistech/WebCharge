@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VY91pvVY728m5FRmlfXPFyPFB+1lpXvDOvDB12/oQdc1VZdvRBRIwpAMIJPt5/tRAafi5erBIQ6Y0zMKcRmopA==",
+  "dgSpecHash": "yoYgpdr+Qy7PNq/JgNAQuxecESeIPmnfygcCYcAdfI/bFNm3DqXA/Nx0y6IWmt+m7OUE0HJKgJaykSdFYSTfbA==",
   "success": true,
-  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj",
+  "projectFilePath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "/Users/lucasplacido/.nuget/packages/abp/4.7.0/abp.4.7.0.nupkg.sha512",
     "/Users/lucasplacido/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",

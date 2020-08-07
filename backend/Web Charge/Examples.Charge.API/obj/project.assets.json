@@ -13429,11 +13429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.API/Examples.Charge.API.csproj",
+      "projectUniqueName": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.API/Examples.Charge.API.csproj",
       "projectName": "Examples.Charge.API",
-      "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.API/Examples.Charge.API.csproj",
+      "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.API/Examples.Charge.API.csproj",
       "packagesPath": "/Users/lucasplacido/.nuget/packages/",
-      "outputPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.API/obj/",
+      "outputPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucasplacido/.config/NuGet/NuGet.Config"
@@ -13447,17 +13447,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Application/Examples.Charge.Application.csproj": {
-              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Application/Examples.Charge.Application.csproj"
+            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Application/Examples.Charge.Application.csproj": {
+              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Application/Examples.Charge.Application.csproj"
             },
-            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj": {
-              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj"
+            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj"
             },
-            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/Examples.Charge.Infra.Data.csproj": {
-              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/Examples.Charge.Infra.Data.csproj"
+            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Infra.Data/Examples.Charge.Infra.Data.csproj": {
+              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Infra.Data/Examples.Charge.Infra.Data.csproj"
             },
-            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj": {
-              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj"
+            "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj": {
+              "projectPath": "/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/backend/Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj"
             }
           }
         }
