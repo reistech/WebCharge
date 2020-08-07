@@ -1,0 +1,21 @@
+services:
+  db:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Master@123
+    image: mcr.microsoft.com/mssql/server
+    ports:
+    - published: 1433
+      target: 1433
+  pgc.charge.api:
+    build:
+      context: /Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1
+      dockerfile: Web Charge/Examples.Charge.API/Dockerfile
+    depends_on:
+    - db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Docker
+    image: pgcchargeapi
+    ports:
+    - target: 80
+version: '3.4'

@@ -1,0 +1,36 @@
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.deps.json
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.dll
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.pdb
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Domain.dll
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Domain.pdb
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csprojAssemblyReference.cache
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.AssemblyInfoInputs.cache
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.AssemblyInfo.cs
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csproj.CoreCompileInputs.cache
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csproj.CopyComplete
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.dll
+D:/wsalmi/source/repos/Raizen/PGC/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.pdb
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.deps.json
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.dll
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.pdb
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Domain.dll
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Domain.pdb
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csprojAssemblyReference.cache
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.AssemblyInfoInputs.cache
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.AssemblyInfo.cs
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csproj.CopyComplete
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.dll
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/projeto_v1/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.pdb
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.deps.json
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.dll
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Infra.Data.pdb
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Domain.dll
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/bin/Debug/netstandard2.0/Examples.Charge.Domain.pdb
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csprojAssemblyReference.cache
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.AssemblyInfoInputs.cache
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.AssemblyInfo.cs
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.csproj.CopyComplete
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.dll
+/Users/lucasplacido/Google Drive/Lucas Reis/workspace/web-charge/WebCharge/Web Charge/Examples.Charge.Infra.Data/obj/Debug/netstandard2.0/Examples.Charge.Infra.Data.pdb
