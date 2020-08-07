@@ -1,12 +1,48 @@
 ﻿<Properties StartupConfiguration="{C6707A60-F25E-44C2-B406-0A3919D1F3B0}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web Charge/Examples.Charge.Application/Messages/Request/PersonPhoneRequest.cs">
+    <Files>
+      <File FileName="Web Charge/Examples.Charge.Application/Messages/Response/PersonResponse.cs" Line="1" Column="1" />
+      <File FileName="Web Charge/Examples.Charge.Application/Messages/Response/PhoneNumberTypeResponse.cs" Line="1" Column="1" />
+      <File FileName="Web Charge/Examples.Charge.Application/Messages/Response/PersonPhoneResponse.cs" Line="1" Column="1" />
+      <File FileName="Web Charge/Examples.Charge.Application/Messages/Request/PersonRequest.cs" Line="1" Column="1" />
+      <File FileName="Web Charge/Examples.Charge.Application/Messages/Request/PersonPhoneRequest.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Example Test" expanded="True">
             <Node name="Web Charge" expanded="True">
-              <Node name="1. Api Layer" expanded="True" />
-              <Node name="3. Domain Layer" expanded="True" />
+              <Node name="1. Api Layer" expanded="True">
+                <Node name="Examples.Charge.API" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Properties" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="2. Aplication Layer" expanded="True">
+                <Node name="Examples.Charge.Application" expanded="True">
+                  <Node name="Messages" expanded="True">
+                    <Node name="Request" expanded="True">
+                      <Node name="PersonPhoneRequest.cs" selected="True" />
+                    </Node>
+                    <Node name="Response" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="3. Domain Layer" expanded="True">
+                <Node name="Examples.Charge.Domain" expanded="True">
+                  <Node name="Aggregates" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="4. Infra Layer" expanded="True">
+                <Node name="4.1 Data" expanded="True">
+                  <Node name="Examples.Charge.Infra.Data" expanded="True">
+                    <Node name="Configuration" expanded="True" />
+                    <Node name="Context" expanded="True" />
+                    <Node name="Repositories" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="5. Migration" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -18,9 +54,12 @@
     <String>docker-compose.dcproj</String>
     <String>Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj</String>
     <String>Web Charge/Examples.Charge.Infra.CrossCutting.IoC/Examples.Charge.Infra.CrossCutting.IoC.csproj</String>
+    <String>Web Charge/Examples.Charge.API/Examples.Charge.API.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Web_220Charge.1._220Api_220Layer.Examples.Charge.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
