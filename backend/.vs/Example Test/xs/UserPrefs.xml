@@ -9,6 +9,11 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>docker-compose.dcproj</String>
+    <String>Web Charge/Examples.Charge.Migration/Examples.Charge.Infra.Data.Configuration.csproj</String>
+    <String>Web Charge/Examples.Charge.Infra.Data/Examples.Charge.Infra.Data.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Web_220Charge.1._220Api_220Layer.Examples.Charge.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
